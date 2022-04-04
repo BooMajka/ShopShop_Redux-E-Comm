@@ -19,5 +19,7 @@ Shopping cart,  offline functionality, and secured online payments with Stripe.
 
 - npm install
 - npm run seed
+- npm run develop
+
 
 <img width="1413" alt="100-end-of-project" src="https://user-images.githubusercontent.com/80685266/161623763-39713c9d-3c83-42e9-b74f-bfba7e0d3766.png">
