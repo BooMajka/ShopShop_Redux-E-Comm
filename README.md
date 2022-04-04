@@ -13,6 +13,7 @@ Shopping cart,  offline functionality, and secured online payments with Stripe.
 - IndexedDB (offline capabilities)
 - GraphQL API
 - Apollo Server
+- tests
 
 
 
