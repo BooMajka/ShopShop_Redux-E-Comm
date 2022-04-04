@@ -4,6 +4,8 @@ E-commerce platform with centralized application's data in global state (easier 
 Shopping cart,  offline functionality, and secured online payments with Stripe.
 
 ## Technology
+
+- MERN
 - Redux
 - React’s Context API
 - Stripe (suite of online payment processing APIs that powers commerce for online businesses of all sizes, allowing them to accept and process payments online).
